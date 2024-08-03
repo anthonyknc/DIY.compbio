@@ -12,7 +12,7 @@
 -   [Plotnine](https://plotnine.org/): A faithful port of R's elegant plotting library, [ggplot2](https://ggplot2.tidyverse.org/index.html), to Python based on the grammar of graphics.
     -   Rsources:
         -   [Data Visualization with PlotNine](https://f0nzie.github.io/rmarkdown-python-plotnine/) by Jeroen Janssens
-        -   [Plotnine Examples](https://github.com/has2k1/plotnine-examples){.uri}
+        -   [Plotnine Examples](https://github.com/has2k1/plotnine-examples)
 -   [Plotly](https://plotly.com/python/): A interactive graphing library for Python.
 -   [Shiny](https://shiny.posit.co/py/): Effortless Python web applications with the power of reactive programming, available for both Python and R.
 -   [Quarto](https://quarto.org/): A powerful open-source scientific and technical publishing system. Dynamic content can be created with Python, R, Julia, and Observable using Quarto.
