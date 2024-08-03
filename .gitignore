@@ -1,2 +1,3 @@
 .DS_Store
 data-wrangling-and-visualization/PY__intro_to_polars.ipynb
+data-wrangling-and-visualization/data/AlphaMissense_hg38.tsv.gz
