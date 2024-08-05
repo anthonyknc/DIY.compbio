@@ -1,3 +1,4 @@
 .DS_Store
 data-wrangling-and-visualization/data/AlphaMissense_hg38.tsv.gz
 data-wrangling-and-visualization/intro_to_polars_01.ipynb
+DIY.compbio-venv/
